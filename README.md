@@ -1,0 +1,3 @@
+Welcome to the Python-developed Hangman game! Challenge yourself to guess the correct letters and unveil the hidden word. You have 5 attempts to successfully guess the word, making each choice count. Enjoy the flexibility of playing this classic game in both English and Portuguese. Have fun and test your word skills!
+
+Bem-vindo ao jogo de Forca desenvolvido em Python! Desafie-se a adivinhar as letras corretas e revelar a palavra oculta. Você tem 5 tentativas para adivinhar corretamente a palavra, então faça cada escolha valer a pena. Desfrute da flexibilidade de jogar este clássico em inglês e português. Divirta-se e teste suas habilidades com palavras!
